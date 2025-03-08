@@ -19,4 +19,7 @@
       <Filter>Kaynak Dosyaları</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="22 bölü 4adım 1" />
+  </ItemGroup>
 </Project>
