@@ -43,7 +43,7 @@ int main() {
         scanf("%d", &hane);
 
         if (hane == 1) {
-            printf("1 hane yanlış sonuç verir.");
+            printf("1 hane yanlis sonuc verir.");
         }
 
         printf("%.*f", hane, islem);
@@ -53,7 +53,7 @@ int main() {
     if (hangi == 3) {
         int tekrar;
         
-        printf("Tekrar etmek istediginiz kadarını girin: ");
+        printf("Tekrar etmek istediginiz kadarini girin: ");
         scanf("%d", &tekrar);
 
         if (tekrar <= 0) {
