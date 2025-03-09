@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="pi adım 1.c" />
+    <ClCompile Include="C kodu ile PI.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="22 bölü 4adım 1" />

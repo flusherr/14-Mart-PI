@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pi adım 1.c">
+    <ClCompile Include="C kodu ile PI.c">
       <Filter>Kaynak Dosyaları</Filter>
     </ClCompile>
   </ItemGroup>
